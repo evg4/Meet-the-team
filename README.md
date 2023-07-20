@@ -1,5 +1,5 @@
 ## Project Title
-Website style guide
+Meet the team
 ## Description
 I made this webpage on 17.05.23 as part of the Codecademy Front-End Engineer path. The purpose was to practise making images that had semi-transparent captions that appeared when the mouse hovered over them.
 ## Features
